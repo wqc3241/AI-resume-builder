@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Editor",
+  "description": "An intelligent resume editor that helps you tailor your resume to a specific job description using AI. Upload your resume, paste a job description, and get AI-powered suggestions to make your application stand out. Edit the revised version and download it as a PDF.",
+  "requestFramePermissions": []
+}
